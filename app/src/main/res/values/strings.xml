@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">stepik_course</string>
+    <string name="hello_everyone">hello everyone</string>
+    <string name="lalala">Lalala</string>
+    <string name="textview">TextView</string>
+    <string name="button_textFive">5</string>
+    <string name="button_textFour">4</string>
+    <string name="button_textSix">6</string>
+    <string name="button_textTwo">2</string>
+    <string name="button_textOne">1</string>
+    <string name="button_textThree">3</string>
+    <string name="button_textEight">8</string>
+    <string name="button_textSeven">7</string>
+    <string name="button_textNine">9</string>
+    <string name="button_textZero">0</string>
+    <string name="button_textSign"><![CDATA[<]]></string>
+    <string name="button_textOk">OK</string>
+    <string name="text_editText">Введите код</string>
+</resources>
